@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_71b36d2251f48e05f3cdece51a44f24598e6f448.jar" />
+    </item>
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_408c15b258b89568cbbccabd36b36b4eb2b6e9bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85212e2ecf614ac104841f8908a731036c2f588a">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\instant-run_0514987d30fd222eb4d8b67592b75db12a7513af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_2a39cd1c46525e88e856a42c7a7bbf0c518b6fac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_fa71dd24661ce2e0d9ce8dac171aa8b4a16da360.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_1d95ad9d29848afa23fab9a742b535add3dbc220.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4733d1c006a207d9a4aca29559f6a01945da6dd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.4.0_ae221f0ea7ee092c7983e9c85e3cfa744ad6c01a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="12905c5368ad36e6b05a06afa2ce33a7987ca0b7">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0cd29ad98edbc6bc07f18fd5887017b57172de20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_2a8c27bf232781e7312806ca2597f8982f780299.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\Git2\02_Android5.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1b80c8a120a571b3593a115e7a5b4bc8dff19614.jar" />
+    </item>
+
+</items>
